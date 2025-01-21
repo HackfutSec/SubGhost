@@ -1,4 +1,6 @@
 ```markdown
+![Image Alt Text](https://i.postimg.cc/tCdqzDx3/Screenshot-2025-01-21-1.png)
+
 # SubGhost
 
 **SubGhost** is a powerful subdomain discovery tool. It helps you discover hidden or less visible subdomains for a given domain using public API services. The tool is designed to be simple to use while offering great flexibility, such as the ability to choose the output format for results.
