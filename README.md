@@ -1,5 +1,5 @@
 ```markdown
-![Image Alt Text](https://i.postimg.cc/tCdqzDx3/Screenshot-2025-01-21-1.png)
+![SubGhost Banner](https://i.postimg.cc/tCdqzDx3/Screenshot-2025-01-21-1.png)
 
 # SubGhost
 
